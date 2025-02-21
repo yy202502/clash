@@ -17,12 +17,22 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-# 其他网站
+# 区块链
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,defillama.com
 DOMAIN-SUFFIX,sosovalue.com
 DOMAIN-SUFFIX,astherus.com
 DOMAIN-SUFFIX,cacapex.com
+DOMAIN-SUFFIX,bitget.fit
+DOMAIN-SUFFIX,venus.io
+DOMAIN-SUFFIX,pendle.finance
+DOMAIN-SUFFIX,hyperliquid.xyz
+DOMAIN-SUFFIX,morpho.org
+DOMAIN-SUFFIX,ethena.fi
+DOMAIN-SUFFIX,lido.fi
+DOMAIN-SUFFIX,jup.ag
+DOMAIN-SUFFIX,octav.fi
+# 其他网站
 DOMAIN-SUFFIX,1lib.sk
 DOMAIN-SUFFIX,6bcloud.top
 DOMAIN-SUFFIX,viptwo.top
